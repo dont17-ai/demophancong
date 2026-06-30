@@ -1,0 +1,6 @@
+{
+  "name": "Phân Công Lịch Dạy & Phân Tích",
+  "description": "Ứng dụng phân công lịch dạy và phân tích trực quan hóa giúp Trưởng bộ môn dễ dàng quản lý, tối ưu hóa giờ dạy và phát hiện trùng lặp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
